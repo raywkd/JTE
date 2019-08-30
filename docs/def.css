@@ -3,15 +3,18 @@
 @import url('https://fonts.googleapis.com/css?family=Poor+Story&display=swap');
   
 .body_bg{
-	background-color: #FAF2FA;	
+	background-color: #FAF2FA;
+	font-family: 'Poor Story', cursive;
 }
 
 .main_cl{
 	background-color: #6441A4;
 	color:white;
+	font-family: 'Poor Story', cursive;
 }
 
 .main_bt:hover{
 	background-color: white;
 	color:#6441A4;
+	font-family: 'Poor Story', cursive;
 }
