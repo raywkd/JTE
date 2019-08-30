@@ -10,3 +10,8 @@
 	background-color: #6441A4;
 	color:white;
 }
+
+.main_bt:hover{
+	background-color: white;
+	color:#6441A4;
+}
